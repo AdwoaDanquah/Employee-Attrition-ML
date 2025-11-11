@@ -45,7 +45,7 @@ Many organizations struggle with retaining valuable employees. This project uses
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 | Metric | Score |
 | **Accuracy** | 0.75 |
 | **Precision** | 0.35 |
